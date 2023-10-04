@@ -1,0 +1,48 @@
+body
+{
+    background-color:rgb(209, 208, 208) ;
+    background-image: url(lp.jpeg);
+}
+h1.a 
+{
+    background-color: rgb(209, 208, 208);
+}
+
+h1{text-align: center;}
+h2
+{
+    background-color:rgb(209, 208, 208) ;
+    text-align: center;
+    border: 3px;
+}
+img
+{
+    padding-left: 26px;
+}
+footer{margin: 20; text-align: center;}
+div.b{align-items: flex-end ;
+    display: flex;
+    flex-direction: row ;
+    
+}
+ul.ali 
+{
+    position: relative ; 
+    bottom: 40px;
+}
+h1,h2
+{
+    font-family: 'Caveat', cursive; ;
+}
+p
+{
+    text-align: center;
+}
+body
+{
+    border: solid rgb(209, 208, 208) 15px  ;
+}
+input
+{
+    background-image:url(lp.jpeg) ;
+}
